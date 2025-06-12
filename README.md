@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-🎓 Final-year B.Tech student at [GLA UNIVERSITY].
+🎓 Final-year B.Tech student at GLA UNIVERSITY.
 
 💼 MERN Stack Explorer | Open Source Contributor
 
@@ -29,12 +29,12 @@
 ---
 
 ## 🏆 Achievements:
-- 🥇 **Winner** - [Hackathon Name] at [Institute Name] among [X] teams
+- 🥇 **Winner** - SPHINX Hackathon at MNIT Jaipur among 300+ teams
 - 🔥 **Built** a full-featured ticket booking platform like BookMyShow using MERN stack
 - 📊 Solved **700+ DSA problems** across platforms:
-  - [Leetcode](https://leetcode.com/u/lavlesh349/)
-  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/lavlesh349)
-  - [Codeforces](https://codeforces.com/profile/lavlesh349)
+  - [Leetcode](https://leetcode.com/u/lavlesh_pandey/)
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/pandeylavipa0/)
+  - [Codeforces](https://codeforces.com/profile/pandeylavlesh349)
 - 🏅 Top performer in university programming contests
 
 ---
@@ -72,8 +72,9 @@
 ## 🤝 Connect with Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/lavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lavlesh349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lavlesh-pandey-36691a279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lavlesh_pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pandeylavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/pandeylavipa0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 <a href="https://github.com/lavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
